@@ -95,6 +95,7 @@ public class HexView extends AppCompatActivity implements View.OnClickListener, 
         styledString.setSpan(new ForegroundColorSpan(0xFFFF0000), 4, 6, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         hint_editText.setHint(styledString);
 
+        //This is new comment
 
         //dynamic spinner
         // setContentView(R.layout.scrollex);
